@@ -1,0 +1,111 @@
+a {
+  color: #6A6F81;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D3D3D3;
+}
+
+body {
+  background-color: #19A2AE;
+  font-family: 'Kumbh Sans', sans-serif;
+  margin: 0;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+h3 {
+  bottom: 35px;
+  position: relative;
+}
+
+hr {
+  bottom: 50px;
+  opacity: 0.3;
+  position: relative;
+}
+
+p {
+  bottom: 40px;
+  color: #969696;
+  font-weight: 400;
+  padding-bottom: 15px;
+  position: relative;
+}
+
+table {
+  bottom: 80px;
+  line-height: 0.25cm;
+  margin: auto;
+  position: relative;
+  text-align: center;
+}
+
+td {
+  color: #2D3248;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 0 40px;
+  word-spacing: 50px;
+}
+
+th {
+  color: #2D3248;
+  font-size: 18px;
+  padding-bottom: 10px;
+  padding-top: 50px;
+}
+
+.age {
+  color: #969696;
+  font-weight: 400;
+  padding-left: 5px;
+}
+
+.attribution {
+  font-size: 11px;
+  margin: auto;
+  margin-top: 80px;
+}
+
+.bg-pattern-bottom {
+  left: 700px;
+  position: fixed;
+  top: 350px;
+  z-index: -2;
+}
+
+.bg-pattern-card {
+  border-radius: 20px 20px 0 0;
+  height: 150px;
+  max-width: 100%;
+  width: 400px;
+}
+
+.bg-pattern-top {
+  bottom: 250px;
+  position: absolute;
+  right: 800px;
+  z-index: -2;
+}
+
+.main-box {
+  background-color: white;
+  border-radius: 5%;
+  height: 400px;
+  margin: auto;
+  margin-top: 150px;
+  -moz-box-shadow: 0 0 15px #2D3248;
+  -webkit-box-shadow: 0 0 15px 0 #2D3248;
+  box-shadow: 0 0 15px 0 #2D3248;
+  padding-bottom: 5px;
+  width: 400px;
+}
+
+.victor-image {
+  border: 5px solid white;
+  border-radius: 100%;
+  bottom: 50px;
+  position: relative;
+}
